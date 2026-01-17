@@ -16,7 +16,8 @@ Agrupa aquí tus herramientas más utilizadas. Puedes mantener todas o eliminar 
 
 ### 🔨 Desarrollo Backend
 
-.net, C#
+- .net
+- C#
 
 ### 🔧 Bases de Datos
 
@@ -31,8 +32,6 @@ Agrupa aquí tus herramientas más utilizadas. Puedes mantener todas o eliminar 
 ### 📌 Centro de ayuda, implementa consumo de servicios con OpenIA y SICAS Online.
 
 ## 📫 Contacto
-
-✏️ Agrega tus medios de contacto preferidos. Puedes usar solo texto, íconos o badges.
 
 ```md
 - 📧 Correo: proyectoia@sicas.com.mx
